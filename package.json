@@ -1,0 +1,22 @@
+{
+  "name": "therms-access-level",
+  "version": "1.0.0",
+  "description": "access level text translate from integer and utils for therms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crobinson42/therms-access-level.git"
+  },
+  "keywords": [
+    "therms"
+  ],
+  "author": "Cory Robinson <coryrobinson42@gmail.com> (http://ygithub.com/robinson42)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crobinson42/therms-access-level/issues"
+  },
+  "homepage": "https://github.com/crobinson42/therms-access-level"
+}
